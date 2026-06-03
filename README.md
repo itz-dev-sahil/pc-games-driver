@@ -91,7 +91,7 @@ All trademarks, software, and copyrights belong to their respective owners.
 
 # 🛡 License
 
-Released under the MIT License.
+Released under the MIT License. 
 
 ---
 
